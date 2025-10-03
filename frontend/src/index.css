@@ -1,0 +1,8 @@
+/*
+ * Global stylesheet for the Mattime app. The Tailwind directives
+ * allow Tailwind to inject its base, component, and utility styles.
+ * You can add custom styles here as the project grows.
+ */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
