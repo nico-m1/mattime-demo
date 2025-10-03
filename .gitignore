@@ -1,0 +1,17 @@
+# Node and general build outputs
+node_modules/
+dist/
+.env
+
+# Python virtual environments and caches
+py-analytics/venv/
+py-analytics/__pycache__/
+*.pyc
+
+# Java build outputs
+java-api/target/
+java-api/*.class
+
+# System files
+*.DS_Store
+Thumbs.db
