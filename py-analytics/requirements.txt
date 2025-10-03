@@ -1,0 +1,5 @@
+Flask==2.3.2
+
+# Add additional Python dependencies for your backend here. For example,
+# firebase_admin could be included if you decide to integrate Firebase
+# directly from Python.
